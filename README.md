@@ -38,7 +38,7 @@ A secondary form that lets you add new products to the cart from a predefined li
 * **Print**: Select "Print" from the main menu to print the cart's contents.
 ## Installation
 
-*git clone https://github.com/username/shopping-cart-app.git* 
+*git clone *https://github.com/username/shopping-cart-app.git** 
 
 *cd shopping-cart-app*
 
@@ -66,12 +66,17 @@ run project
 
 <img width="773" height="485" alt="image" src="https://github.com/user-attachments/assets/0a3a8871-2ef2-46f1-bd6a-061bb6cdb3a2" />
 
-source file: import.txt
+Source file: import.txt
+
 *101;Lapte;6.50;2
-102;Paine;3.00;1
-103;Oua;12.75;6
-104;Unt;15.20;1
-105;Cafea;25.99;1*
+
+*102;Paine;3.00;1*
+
+*103;Oua;12.75;6*
+
+*104;Unt;15.20;1*
+
+*105;Cafea;25.99;1*
 
 ### Print out the document (Tipareste)
 
