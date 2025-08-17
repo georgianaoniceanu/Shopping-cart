@@ -38,9 +38,9 @@ A secondary form that lets you add new products to the cart from a predefined li
 * **Print**: Select "Print" from the main menu to print the cart's contents.
 ## Installation
 
-*git clone *https://github.com/username/shopping-cart-app.git** 
+`git clone https://github.com/username/shopping-cart-app.git`
 
-*cd shopping-cart-app*
+`cd shopping-cart-app`
 
 open with Visual Studio
 
@@ -66,7 +66,7 @@ run project
 
 <img width="773" height="485" alt="image" src="https://github.com/user-attachments/assets/0a3a8871-2ef2-46f1-bd6a-061bb6cdb3a2" />
 
-Source file: import.txt
+Source file: `import.txt`
 
 *101;Lapte;6.50;2*
 
