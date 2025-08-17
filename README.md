@@ -68,7 +68,7 @@ run project
 
 Source file: import.txt
 
-*101;Lapte;6.50;2
+*101;Lapte;6.50;2*
 
 *102;Paine;3.00;1*
 
