@@ -36,3 +36,36 @@ A secondary form that lets you add new products to the cart from a predefined li
 * **Delete Product**: Select a row in the `DataGridView` and either press the `DEL` key or right-click to use the context menu's "Delete" option.
 * **Export/Import**: Use the "Export Cart" and "Import Cart" options in the main menu to save or load your cart data to/from a text file.
 * **Print**: Select "Print" from the main menu to print the cart's contents.
+## Installation
+
+*git clone https://github.com/username/shopping-cart-app.git* 
+*cd shopping-cart-app*
+open with Visual Studio
+run project
+
+## Screenshoots
+
+<img width="772" height="490" alt="image" src="https://github.com/user-attachments/assets/25e30668-2097-4eeb-9ce3-5e51e201571a" />
+### Add a new product (Adauga produs)
+<img width="796" height="488" alt="image" src="https://github.com/user-attachments/assets/e0192556-7474-40cb-9340-97e1fe595ab3" />
+<img width="776" height="487" alt="image" src="https://github.com/user-attachments/assets/deacabd4-4f44-4ce9-af76-989302507126" />
+### Delete a selected product (Sterge produs)
+<img width="938" height="487" alt="image" src="https://github.com/user-attachments/assets/6bf6960b-31fc-46b7-80a3-b24cd4c0649f" />
+### Import data from a *.txt* file
+<img width="880" height="489" alt="image" src="https://github.com/user-attachments/assets/1d8dcaae-3d03-437c-b5e7-9d4a753251eb" />
+<img width="773" height="485" alt="image" src="https://github.com/user-attachments/assets/0a3a8871-2ef2-46f1-bd6a-061bb6cdb3a2" />
+
+source file: import.txt
+*101;Lapte;6.50;2
+102;Paine;3.00;1
+103;Oua;12.75;6
+104;Unt;15.20;1
+105;Cafea;25.99;1*
+
+### Print out the document (Tipareste)
+<img width="889" height="620" alt="image" src="https://github.com/user-attachments/assets/d9693a76-fb11-4144-b1ad-4f2c92e9f891" />
+
+
+
+
+
