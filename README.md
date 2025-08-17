@@ -51,7 +51,7 @@ run project
 <img width="776" height="487" alt="image" src="https://github.com/user-attachments/assets/deacabd4-4f44-4ce9-af76-989302507126" />
 ### Delete a selected product (Sterge produs)
 <img width="938" height="487" alt="image" src="https://github.com/user-attachments/assets/6bf6960b-31fc-46b7-80a3-b24cd4c0649f" />
-### Import data from a *.txt* file
+### Import data from a .txt file
 <img width="880" height="489" alt="image" src="https://github.com/user-attachments/assets/1d8dcaae-3d03-437c-b5e7-9d4a753251eb" />
 <img width="773" height="485" alt="image" src="https://github.com/user-attachments/assets/0a3a8871-2ef2-46f1-bd6a-061bb6cdb3a2" />
 
